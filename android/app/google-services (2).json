@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1073515109236",
+    "project_id": "dynasty-social-app-c020d",
+    "storage_bucket": "dynasty-social-app-c020d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073515109236:android:145d0b54f8132b81e06a21",
+        "android_client_info": {
+          "package_name": "com.example.dynasty_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2LNior7t3UsTnMTRwN56AJIR_evndZDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
